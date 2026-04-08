@@ -3,15 +3,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'CopiioAI',
   description: 'Natural language interface for accessing real-time internet data. Ask anything — get live results from Reddit, financial markets, news, social media, and more.',
-  base: '/copiioai/',
+  base: '/CopiioAI-Natural-language-interface-for-accessing-internet-data/',
   head: [
     ['meta', { name: 'keywords', content: 'natural language, real-time internet data, API access, Postman alternative, developer tools, chrome extension' }],
-    ['link', { rel: 'canonical', href: 'https://copiioaicom-spec.github.io/copiioai/' }],
+    ['link', { rel: 'canonical', href: 'https://copiioaicom-spec.github.io/CopiioAI-Natural-language-interface-for-accessing-internet-data/' }],
   ],
   srcExclude: ['superpowers/**'],
   ignoreDeadLinks: true,
   sitemap: {
-    hostname: 'https://copiioaicom-spec.github.io/copiioai/'
+    hostname: 'https://copiioaicom-spec.github.io/CopiioAI-Natural-language-interface-for-accessing-internet-data/'
   },
   themeConfig: {
     nav: [
@@ -42,7 +42,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/copiioaicom-spec/copiioai' }
+      { icon: 'github', link: 'https://github.com/copiioaicom-spec/CopiioAI-Natural-language-interface-for-accessing-internet-data' }
     ]
   }
 })
