@@ -1,3 +1,8 @@
+---
+title: Natural Language Product Research & E-commerce Data
+description: Search Amazon, compare prices, and track Android app rankings — all in plain English. No coding required.
+---
+
 # Natural Language Product Research & E-commerce Data
 
 Search Amazon, compare prices, track app rankings, and research markets — all in plain English with CopiioAI.
@@ -51,4 +56,4 @@ Replace manual tab-switching with a single conversational interface. CopiioAI kn
 
 ---
 
-← [Back to README](../README.md) | [Financial Data](financial-market-data.md) | [More Use Cases](use-cases.md)
+← [Back to Home](/) | [Financial Data](financial-market-data.md) | [More Use Cases](use-cases.md)

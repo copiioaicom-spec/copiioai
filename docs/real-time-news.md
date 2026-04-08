@@ -1,3 +1,8 @@
+---
+title: Real-Time News Access with Natural Language AI
+description: Get live news from Hacker News, Google News, NYT, CoinDesk, and more — just by asking.
+---
+
 # Real-Time News Access with Natural Language AI
 
 CopiioAI pulls live news from across the web — tech, politics, finance, crypto, climate, and more — the moment you ask. No news app switching, no RSS feeds to manage.
@@ -43,4 +48,4 @@ Standard AI tools only know what they were trained on. CopiioAI reads **today's 
 
 ---
 
-← [Back to README](../README.md) | [Financial Data](financial-market-data.md) | [More Use Cases](use-cases.md)
+← [Back to Home](/) | [Financial Data](financial-market-data.md) | [More Use Cases](use-cases.md)

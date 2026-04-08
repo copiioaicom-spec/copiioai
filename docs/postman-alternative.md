@@ -1,3 +1,8 @@
+---
+title: CopiioAI as a Postman Alternative — Natural Language API Access
+description: Replace Postman with plain English. No endpoint URLs, no auth headers, no learning curve.
+---
+
 # CopiioAI as a Postman Alternative: Natural Language API Access
 
 Postman is powerful — but it requires knowing the endpoint, parameters, authentication headers, and response structure before you can make a single request. CopiioAI flips this: describe what you want, and it handles the rest.
@@ -61,4 +66,4 @@ CopiioAI is not a general-purpose AI chatbot — it's purpose-built for **live i
 
 ---
 
-← [Back to README](../README.md) | [Use Cases](use-cases.md)
+← [Back to Home](/) | [Use Cases](use-cases.md)

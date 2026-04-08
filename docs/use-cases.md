@@ -1,3 +1,8 @@
+---
+title: CopiioAI Use Cases — Natural Language Internet Data Access
+description: How developers, financial analysts, product managers, and marketers use CopiioAI for live internet data.
+---
+
 # CopiioAI Use Cases: Natural Language Internet Data Access
 
 CopiioAI is a Chrome extension that gives you a natural language interface to live internet data. Here's how different people use it.
@@ -75,4 +80,4 @@ CopiioAI is not a general-purpose AI chatbot. It is a **natural language interfa
 
 ---
 
-← [Back to README](../README.md)
+← [Back to Home](/)

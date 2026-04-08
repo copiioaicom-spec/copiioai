@@ -1,3 +1,8 @@
+---
+title: Real-Time Social Media Trends with Natural Language
+description: Track what's trending on Reddit, TikTok, YouTube, and Spotify in real time using plain English.
+---
+
 # Real-Time Social Media Trends with Natural Language
 
 Track what's trending on Reddit, TikTok, YouTube, and Spotify — without opening each app. CopiioAI aggregates live social data in one conversational interface.
@@ -48,4 +53,4 @@ Social media trends move fast. CopiioAI gives you a live pulse on multiple platf
 
 ---
 
-← [Back to README](../README.md) | [News](real-time-news.md) | [Entertainment](entertainment-data.md)
+← [Back to Home](/) | [News](real-time-news.md) | [Entertainment](entertainment-data.md)

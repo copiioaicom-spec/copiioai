@@ -1,3 +1,8 @@
+---
+title: Live Entertainment & Sports Data with Natural Language
+description: Get IMDb top lists, NBA scores, F1 news, and sports results by asking in plain English.
+---
+
 # Live Entertainment & Sports Data with Natural Language
 
 Movies, TV, sports scores, music, racing — get real-time entertainment data by simply asking CopiioAI.
@@ -32,4 +37,4 @@ No more switching between IMDb, ESPN, and sports apps. Ask once, get live data f
 
 ---
 
-← [Back to README](../README.md) | [Social Media Trends](social-media-trends.md) | [More Use Cases](use-cases.md)
+← [Back to Home](/) | [Social Media Trends](social-media-trends.md) | [More Use Cases](use-cases.md)

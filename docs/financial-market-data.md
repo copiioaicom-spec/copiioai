@@ -1,3 +1,8 @@
+---
+title: Real-Time Financial Market Data with Natural Language
+description: Access live stock prices, crypto, FRED economic indicators, and Bloomberg news using plain English. No coding required.
+---
+
 # Real-Time Financial Market Data with Natural Language
 
 CopiioAI gives you instant access to live financial market data — stock prices, crypto, forex, economic indicators, and more — without writing a single line of code. Just ask in plain English.
@@ -64,4 +69,4 @@ Unlike general AI assistants, CopiioAI accesses **live data sources** — not tr
 
 ---
 
-← [Back to README](../README.md) | [More Use Cases](use-cases.md)
+← [Back to Home](/) | [More Use Cases](use-cases.md)
