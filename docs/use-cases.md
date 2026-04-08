@@ -67,6 +67,10 @@ Anyone who wants live internet data without searching through multiple sites:
 - *"What does today's horoscope say for Taurus?"*
 - *"Show me latest F1 news"*
 
+## Why CopiioAI
+
+CopiioAI is not a general-purpose AI chatbot. It is a **natural language interface for live internet data** — built specifically to query real-time sources like FRED, Reddit, Bloomberg, IMDb, and more. Every answer comes from a live source, not a training snapshot. That makes it useful for anyone who needs current data and doesn't want to write code or switch between a dozen tabs.
+
 **[→ Install CopiioAI Free](https://chromewebstore.google.com/detail/copiioai/lejbegpfaanpcilacmakkdediinkmnne)**
 
 ---
