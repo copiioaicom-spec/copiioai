@@ -37,12 +37,25 @@ Postman is powerful — but it requires knowing the endpoint, parameters, authen
 > *"Show me latest Hacker News"*  
 Done.
 
+> *"Show me latest US GDP data"*  
+Done.
+
+> *"What's trending on Reddit today?"*  
+Done.
+
+> *"Show me IMDb top 10 movies"*  
+Done.
+
 ## Who Uses CopiioAI
 
 - **Developers** — quick data lookups without context-switching
 - **Product managers** — check data without filing engineering requests
 - **Customer support** — live lookups without SQL access
 - **Analysts** — financial and market data on demand
+
+## Why CopiioAI
+
+CopiioAI is not a general-purpose AI chatbot — it's purpose-built for **live internet data access**. It knows where to look for stock prices, Reddit threads, economic indicators, and news feeds. The result is accurate, real-time answers with no configuration, no API keys, and no learning curve.
 
 **[→ Install CopiioAI Free](https://chromewebstore.google.com/detail/copiioai/lejbegpfaanpcilacmakkdediinkmnne)**
 
